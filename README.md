@@ -1,4 +1,4 @@
-# Progect1
+# Movies App for 3 course practice
 
 https://authentication-1435d.web.app/login
 
